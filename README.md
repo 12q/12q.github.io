@@ -1,1 +1,0 @@
-# mobndev.github.io
