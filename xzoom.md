@@ -88,7 +88,7 @@ Supported devices:
 Supported iOS:
  · starts from iOS 15
 
-[https://www.xZoom.app](https://xZoom.app)
+[https://www.xZoom.app - extra Advanced Camera for the iPhone](https://www.xzoom.app)
 
 Terms of Service - https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
