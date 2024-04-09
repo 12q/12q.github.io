@@ -1,18 +1,19 @@
 {
-  "applinks": {
-      "details": [
-           {
-             "appIDs": [ "7F8B6PG46B.com.mobndev.xZoom-pro"],
-             "components": [
-               {
-                  "/": "/config/*",
-                  "comment": "Matches any URL with a path that starts with /buy/."
-               }
-             ]
-           }
-       ]
-   },
-   "webcredentials": {
-      "apps": [ "7F8B6PG46B.com.mobndev.xZoom-pro" ]
-   }
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "7F8B6PG46B.com.mobndev.xZoom-pro"
+                ],
+                "paths": [
+                    "*"
+                ]
+            }
+        ],
+        "webcredentials": {
+            "apps": [
+                "7F8B6PG46B.com.mobndev.xZoom-pro"
+            ]
+        }
+    }
 }
