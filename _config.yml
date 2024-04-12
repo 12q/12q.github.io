@@ -19,12 +19,13 @@ include: [".well-known"]
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mob & Dev 
+title: xZoom.app - Boost your iPhone
 email: hello@xzoom.app
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  xZoom pro app - advanced Camera for an iPhone
+  Take extra zoom for your camera.
+  Advanced control, Manual Focus, ISO & Shutter Speed managment.
+  Direct access to all of your cameras (virtual & physcical) and all video formats. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mobndev.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xZoomApp
