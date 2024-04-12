@@ -8,7 +8,7 @@ permalink: /
 
 # xZoom.app - Boost your iPhone camera
 
-[![xzoompro](xzoom-pro-icon.png){: width="124" }](https://apps.apple.com/ua/app/xzoom-pro/id1643676119)
-[![xzoompro](appstore-icon.png){: width="88" }](https://apps.apple.com/ua/app/xzoom-pro/id1643676119)
-
-[xZoom.app](https://xZoom.app)
+[![xzoompro](xzoom-pro-icon.png){: width="124" }](https://xZoom.app)
+\
+\
+[![xzoompro](appstore-icon.png){: width="124" }](https://apps.apple.com/ua/app/xzoom-pro/id1643676119)
