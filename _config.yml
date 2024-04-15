@@ -27,10 +27,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Advanced control, Manual Focus, ISO & Shutter Speed managment.
   Direct access to all of your cameras (virtual & physcical) and all video formats. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://mobndev.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://xzoom.pro" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xZoomApp
 github_username:  12q
-
 
 header_pages:
   - index.md
@@ -41,8 +40,10 @@ style: light # dark (default), light or hacker
 listen_for_clients_preferred_style: false # false (default) or true
 
 footer: 'check this out <a href="https://apps.apple.com/ua/app/xzoom/id1643121609">AppStore</a>'
-google_analytics: UA-270434559-1
-
+google:
+  tag_manager:
+    container_id: G-93X1XZ3F35
+    
 # Build settings
 # theme: jekyll-theme-console
 remote_theme: b2a3e8/jekyll-theme-console
