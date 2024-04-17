@@ -40,9 +40,7 @@ style: light # dark (default), light or hacker
 listen_for_clients_preferred_style: false # false (default) or true
 
 footer: 'check this out <a href="https://apps.apple.com/ua/app/xzoom/id1643121609">AppStore</a>'
-google:
-  tag_manager:
-    container_id: G-93X1XZ3F35
+google_analytics: G-93X1XZ3F35
     
 # Build settings
 # theme: jekyll-theme-console
