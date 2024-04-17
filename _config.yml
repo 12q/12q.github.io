@@ -39,6 +39,10 @@ header_pages:
 style: light # dark (default), light or hacker
 listen_for_clients_preferred_style: false # false (default) or true
 
+webserver_headers:
+  "Access-Control-Allow-Origin": "*"
+  "Server": " https://www.googletagmanager.com/"
+  
 footer: 'check this out <a href="https://apps.apple.com/ua/app/xzoom/id1643121609">AppStore</a>'
 google_analytics: G-93X1XZ3F35
     
