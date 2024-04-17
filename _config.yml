@@ -19,7 +19,7 @@ include: [".well-known"]
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: xZoom.app - Boost your iPhone
+title: xZoom.app - iPhone camera
 email: hello@xzoom.app
 description: >- # this means to ignore newlines until "baseurl:"
   xZoom pro app - advanced Camera for an iPhone
@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Advanced control, Manual Focus, ISO & Shutter Speed managment.
   Direct access to all of your cameras (virtual & physcical) and all video formats. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://xzoom.pro" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://xzoom.pro" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xZoomApp
 github_username:  12q
 
@@ -38,15 +38,13 @@ header_pages:
 
 style: light # dark (default), light or hacker
 listen_for_clients_preferred_style: false # false (default) or true
-
-webserver_headers:
-  - - Access-Control-Allow-Origin
-    - "*"
-  - - Access-Control-Allow-Methods
-    - GET, OPTIONS, HEAD
   
 footer: 'check this out <a href="https://apps.apple.com/ua/app/xzoom/id1643121609">AppStore</a>'
 google_analytics: G-93X1XZ3F35
+
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
     
 # Build settings
 # theme: jekyll-theme-console
