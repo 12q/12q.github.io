@@ -48,7 +48,7 @@ webrick:
     
 # Build settings
 # theme: jekyll-theme-console
-remote_theme: b2a3e8/jekyll-theme-console
+remote_theme: 12q/jekyll-theme-console
 plugins:
   - jekyll-feed
 
