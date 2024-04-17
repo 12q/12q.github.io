@@ -40,7 +40,6 @@ style: light # dark (default), light or hacker
 listen_for_clients_preferred_style: false # false (default) or true
   
 footer: 'check this out <a href="https://apps.apple.com/ua/app/xzoom/id1643121609">AppStore</a>'
-google_analytics: G-93X1XZ3F35
 
 webrick:
   headers:
@@ -51,7 +50,6 @@ webrick:
 remote_theme: 12q/jekyll-theme-console
 plugins:
   - jekyll-feed
-  - jekyll-content-security-policy-generator
 
 # Exclude from processing.
 # The following items will not be processed, by default.
