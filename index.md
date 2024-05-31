@@ -6,7 +6,7 @@ permalink: /
 <!-- [Light](https://b2a3e8.github.io/jekyll-theme-console-demo-light/)
 [Hacker](https://b2a3e8.github.io/jekyll-theme-console-demo-hacker/) -->
 
-# xZoom.app - Boost your iPhone camera
+# xZoom.app - Camera Booster for iPhone
 
 [![xzoompro](xzoom-pro-icon.png){: width="124" }](https://xZoom.app)
 \
